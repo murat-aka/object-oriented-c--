@@ -1,0 +1,15 @@
+
+ Table name: city
+            AGE            ID
+murat           20           123
+rupech           15           777
+luca           18           555
+ka           11           000
+
+
+ Table name: west
+            TYPE            CLASS            ORIGIN
+vg           A           A1           1
+yan           B           B1           2
+tr           C           C1           3
+
